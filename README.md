@@ -1,4 +1,4 @@
-# mongodb-nodejs
+# mongodb-nodejs installation
 
 commands :
 
